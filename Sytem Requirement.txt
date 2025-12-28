@@ -1,11 +1,12 @@
-# System Requirements
+System Requirements
 
-## Software Requirements
+Software Requirements
 - Microsoft Windows (XP / 7 / 8 / 10)
 - Microsoft Visual Basic 6.0
 - Microsoft Access (if database is used)
 
-## Hardware Requirements
+Hardware Requirements
 - Minimum 2 GB RAM
 - Minimum 1 GHz Processor
 - 100 MB Free Disk Space
+
