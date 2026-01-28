@@ -64,7 +64,6 @@ Password: admin12
 - Migration to VB.NET
 - Improved UI design
 - Enhanced security
-- Database normalization
 - Role-based access (Admin / User)
 
 ---
